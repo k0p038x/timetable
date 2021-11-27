@@ -1,0 +1,301 @@
+[
+    {
+        "professorName": "KNR",
+        "classDetails": [
+            {
+                "sectionNames": ["BSC-5-MPCS"],
+                "subject": "Maths",
+                "weeklyHours": 6,
+                "preferredPeriodIds": ["P1", "P2", "P3"]
+            },
+            {
+                "sectionNames": ["BSC-3-MPCS"],
+                "subject": "Maths",
+                "weeklyHours": 6,
+                "preferredPeriodIds": ["P1", "P2", "P3"]
+            },
+            {
+                "sectionNames": ["BSC-1-MPCS"],
+                "subject": "Maths",
+                "weeklyHours": 6,
+                "preferredPeriodIds": ["P1", "P2", "P3"]
+            }
+        ]
+    },
+    {
+        "professorName": "Kavitha",
+        "classDetails": [
+            {
+                "sectionNames": ["BSC-5-MPCS"],
+                "subject": "Maths",
+                "weeklyHours": 6,
+                "preferredPeriodIds": ["P6"]
+            }
+        ]
+    },
+    {
+        "professorName": "MR",
+        "classDetails": [
+            {
+                "sectionNames": ["BSC-5-MPCS"],
+                "subject": "Physics",
+                "weeklyHours": 12
+            },
+            {
+                "sectionNames": ["BSC-3-MPCS"],
+                "subject": "Physics",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BSC-1-MPCS"],
+                "subject": "Physics",
+                "weeklyHours": 9
+            }
+        ]
+    },
+    {
+        "professorName": "TSR",
+        "classDetails": [
+            {
+                "sectionNames": ["BSC-1-MPCS", "BZC-1"],
+                "subject": "Tel",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BCOM-1-GEN", "BCOM-1-VOC", "BCA-1"],
+                "subject": "Tel",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BSC-3-MPCS", "BZC-3"],
+                "subject": "Tel",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BCOM-3-GEN", "BCOM-3-VOC", "BCA-3"],
+                "subject": "Tel",
+                "weeklyHours": 6
+            }
+        ]
+    },
+    {
+        "professorName": "BVR",
+        "classDetails": [
+            {
+                "sectionNames": ["BSC-1-MPCS", "BZC-1"],
+                "subject": "Eng",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BSC-3-MPCS", "BZC-3"],
+                "subject": "Eng",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BCOM-3-GEN", "BCOM-3-VOC", "BCA-3"],
+                "subject": "Eng",
+                "weeklyHours": 6
+            }
+        ]
+    },
+    {
+        "professorName": "DBR",
+        "classDetails": [
+            {
+                "sectionNames": ["BCOM-1-GEN", "BCOM-1-VOC", "BCA-1"],
+                "subject": "Eng",
+                "weeklyHours": 6
+            }
+        ]
+    },
+    {
+        "professorName": "KSR",
+        "classDetails": [
+            {
+                "sectionNames": ["BSC-1-MPCS", "BZC-1"],
+                "subject": "HVE",
+                "weeklyHours": 3
+            },
+            {
+                "sectionNames": ["BCOM-1-GEN", "BCOM-1-VOC", "BCA-1"],
+                "subject": "HVE",
+                "weeklyHours": 3
+            },
+            {
+                "sectionNames": ["BCOM-3-GEN", "BCOM-3-VOC"],
+                "subject": "Stats",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BCOM-5-GEN", "BCOM-5-VOC"],
+                "subject": "BL",
+                "weeklyHours": 6
+            }
+        ]
+    },
+    {
+        "professorName": "TGR",
+        "classDetails": [
+            {
+                "sectionNames": ["BSC-1-MPCS", "BZC-1"],
+                "subject": "Tourism",
+                "weeklyHours": 3
+            },
+            {
+                "sectionNames": ["BCOM-1-GEN", "BCOM-1-VOC", "BCA-1"],
+                "subject": "Tourism",
+                "weeklyHours": 3
+            },
+            {
+                "sectionNames": ["BSC-3-MPCS", "BZC-3"],
+                "subject": "Financial Marketing",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BCOM-3-GEN", "BCOM-3-VOC", "BCA-3"],
+                "subject": "Financial Marketing",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BCOM-5-GEN", "BCOM-5-VOC"],
+                "subject": "CG",
+                "weeklyHours": 6
+            }
+        ]
+    },
+    {
+        "professorName": "Sekhar",
+        "classDetails": [
+            {
+                "sectionNames": ["BSC-3-MPCS", "BZC-3"],
+                "subject": "Env Edu & PDL",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BCOM-3-GEN", "BCOM-3-VOC", "BCA-3"],
+                "subject": "Env Edu & PDL",
+                "weeklyHours": 6
+            }
+        ]
+    },
+    {
+        "professorName": "Somanna",
+        "classDetails": [
+            {
+                "sectionNames": ["BZC-5"],
+                "subject": "Che",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BZC-3"],
+                "subject": "Che",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BZC-1"],
+                "subject": "Che",
+                "weeklyHours": 6
+            }
+        ]
+    },
+    {
+        "professorName": "Ram Mohan",
+        "classDetails": [
+            {
+                "sectionNames": ["BZC-5"],
+                "subject": "Che",
+                "weeklyHours": 6
+            }
+        ]
+    },
+    {
+        "professorName": "GR",
+        "classDetails": [
+            {
+                "sectionNames": ["BZC-5"],
+                "subject": "Bot",
+                "weeklyHours": 12
+            },
+            {
+                "sectionNames": ["BZC-3"],
+                "subject": "Bot",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BZC-1"],
+                "subject": "Bot",
+                "weeklyHours": 6
+            }
+        ]
+    },
+    {
+        "professorName": "Sumathi",
+        "classDetails": [
+            {
+                "sectionNames": ["BZC-5"],
+                "subject": "Zoo",
+                "weeklyHours": 12
+            },
+            {
+                "sectionNames": ["BZC-3"],
+                "subject": "Zoo",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BZC-1"],
+                "subject": "Zoo",
+                "weeklyHours": 6
+            }
+        ]
+    },
+    {
+        "professorName": "SB",
+        "classDetails": [
+            {
+                "sectionNames": ["BCA-5"],
+                "subject": "Comp",
+                "weeklyHours": 12
+            },
+            {
+                "sectionNames": ["BSC-5-MPCS"],
+                "subject": "Comp",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BCOM-5-VOC"],
+                "subject": "Comp",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BCA-3"],
+                "subject": "Comp",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BCOM-3-VOC"],
+                "subject": "Comp",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BCA-1"],
+                "subject": "Comp",
+                "weeklyHours": 6
+            }
+        ]
+    },
+    {
+        "professorName": "ARUNA",
+        "classDetails": [
+            {
+                "sectionNames": ["BCA-1"],
+                "subject": "Comp",
+                "weeklyHours": 6
+            },
+            {
+                "sectionNames": ["BCA-3"],
+                "subject": "Comp",
+                "weeklyHours": 6
+            }
+        ]
+    }
+]
